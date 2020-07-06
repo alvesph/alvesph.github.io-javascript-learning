@@ -6,6 +6,6 @@ boxElement.style.width = 100;
 boxElement.style.height = 100;
 boxElement.style.backgroundColor = '#cae8ca';
 
-var textoElement = document.querySelector("a");
+var textoElement = document.querySelector('.desafio3');
 
 textoElement.style.color = 'green';
